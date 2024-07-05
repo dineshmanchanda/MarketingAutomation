@@ -1,0 +1,53 @@
+11:25:50.982 [main] INFO  testCases.TC02_LoginPageDataDriven - Entering the Username on Login Page
+11:25:51.088 [main] INFO  testCases.TC02_LoginPageDataDriven - Entering the Password on Login Page
+11:25:51.202 [main] INFO  testCases.TC02_LoginPageDataDriven - Clicking on the Login Button
+11:26:01.383 [main] INFO  testCases.TC02_LoginPageDataDriven - Starting login verification test
+11:26:01.383 [main] INFO  testCases.TC02_LoginPageDataDriven - Opening the Login Page
+11:26:01.499 [main] INFO  testCases.TC02_LoginPageDataDriven - Entering the Username on Login Page
+11:26:01.614 [main] INFO  testCases.TC02_LoginPageDataDriven - Entering the Password on Login Page
+11:26:01.763 [main] INFO  testCases.TC02_LoginPageDataDriven - Clicking on the Login Button
+15:59:23.820 [main] INFO  testCases.TC02_LoginPageDataDriven - Starting login verification test
+15:59:23.850 [main] INFO  testCases.TC02_LoginPageDataDriven - Opening the Login Page
+15:59:24.965 [main] INFO  testCases.TC02_LoginPageDataDriven - Entering the Username on Login Page
+15:59:25.157 [main] INFO  testCases.TC02_LoginPageDataDriven - Entering the Password on Login Page
+15:59:25.407 [main] INFO  testCases.TC02_LoginPageDataDriven - Clicking on the Login Button
+15:59:35.637 [main] INFO  testCases.TC02_LoginPageDataDriven - Starting login verification test
+15:59:35.638 [main] INFO  testCases.TC02_LoginPageDataDriven - Opening the Login Page
+15:59:35.803 [main] INFO  testCases.TC02_LoginPageDataDriven - Entering the Username on Login Page
+15:59:35.933 [main] INFO  testCases.TC02_LoginPageDataDriven - Entering the Password on Login Page
+15:59:36.276 [main] INFO  testCases.TC02_LoginPageDataDriven - Clicking on the Login Button
+15:59:46.488 [main] INFO  testCases.TC02_LoginPageDataDriven - Starting login verification test
+15:59:46.489 [main] INFO  testCases.TC02_LoginPageDataDriven - Opening the Login Page
+15:59:46.632 [main] INFO  testCases.TC02_LoginPageDataDriven - Entering the Username on Login Page
+15:59:46.897 [main] INFO  testCases.TC02_LoginPageDataDriven - Entering the Password on Login Page
+15:59:47.166 [main] INFO  testCases.TC02_LoginPageDataDriven - Clicking on the Login Button
+15:59:57.425 [main] INFO  testCases.TC02_LoginPageDataDriven - Starting login verification test
+15:59:57.427 [main] INFO  testCases.TC02_LoginPageDataDriven - Opening the Login Page
+15:59:57.686 [main] INFO  testCases.TC02_LoginPageDataDriven - Entering the Username on Login Page
+15:59:57.806 [main] INFO  testCases.TC02_LoginPageDataDriven - Entering the Password on Login Page
+15:59:58.171 [main] INFO  testCases.TC02_LoginPageDataDriven - Clicking on the Login Button
+16:28:59.328 [main] INFO  testCases.TC02_LoginPageDataDriven - Starting login verification test
+16:28:59.338 [main] INFO  testCases.TC02_LoginPageDataDriven - Opening the Login Page
+16:28:59.577 [main] INFO  testCases.TC02_LoginPageDataDriven - Entering the Username on Login Page
+16:28:59.774 [main] INFO  testCases.TC02_LoginPageDataDriven - Entering the Password on Login Page
+16:28:59.961 [main] INFO  testCases.TC02_LoginPageDataDriven - Clicking on the Login Button
+16:29:10.258 [main] INFO  testCases.TC02_LoginPageDataDriven - Starting login verification test
+16:29:10.259 [main] INFO  testCases.TC02_LoginPageDataDriven - Opening the Login Page
+16:29:10.402 [main] INFO  testCases.TC02_LoginPageDataDriven - Entering the Username on Login Page
+16:29:10.509 [main] INFO  testCases.TC02_LoginPageDataDriven - Entering the Password on Login Page
+16:29:10.618 [main] INFO  testCases.TC02_LoginPageDataDriven - Clicking on the Login Button
+16:29:20.712 [main] INFO  testCases.TC02_LoginPageDataDriven - Starting login verification test
+16:29:20.713 [main] INFO  testCases.TC02_LoginPageDataDriven - Opening the Login Page
+16:29:20.803 [main] INFO  testCases.TC02_LoginPageDataDriven - Entering the Username on Login Page
+16:29:20.866 [main] INFO  testCases.TC02_LoginPageDataDriven - Entering the Password on Login Page
+16:29:20.940 [main] INFO  testCases.TC02_LoginPageDataDriven - Clicking on the Login Button
+16:29:31.039 [main] INFO  testCases.TC02_LoginPageDataDriven - Starting login verification test
+16:29:31.039 [main] INFO  testCases.TC02_LoginPageDataDriven - Opening the Login Page
+16:29:31.184 [main] INFO  testCases.TC02_LoginPageDataDriven - Entering the Username on Login Page
+16:29:31.265 [main] INFO  testCases.TC02_LoginPageDataDriven - Entering the Password on Login Page
+16:29:31.608 [main] INFO  testCases.TC02_LoginPageDataDriven - Clicking on the Login Button
+15:50:07.801 [main] INFO  testCases.TC02_LoginPageDataDriven - Starting login verification test
+15:50:07.820 [main] INFO  testCases.TC02_LoginPageDataDriven - Opening the Login Page
+15:50:11.184 [main] INFO  testCases.TC02_LoginPageDataDriven - Entering the Username on Login Page
+15:50:11.358 [main] INFO  testCases.TC02_LoginPageDataDriven - Entering the Password on Login Page
+15:50:11.479 [main] INFO  testCases.TC02_LoginPageDataDriven - Clicking on the Login Button
